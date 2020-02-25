@@ -1,0 +1,18 @@
+{
+  "name": "yuki-bot",
+  "version": "1.0.0",
+  "description": "Basic Haruhi themed bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mhiyako",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/uws": "^10.149.0",
+    "bufferutil": "^4.0.1",
+    "discord.js": "^11.5.1",
+    "ytdl-core": "^1.0.9"
+  }
+}
